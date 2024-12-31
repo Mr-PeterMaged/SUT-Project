@@ -1,0 +1,177 @@
+{
+  "books": [
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_year": 1960,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "publication_year": 1949,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publication_year": 1813,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publication_year": 1925,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "publication_year": 1851,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "publication_year": 1869,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publication_year": 1951,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publication_year": 1937,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Bronte",
+      "publication_year": 1847,
+      "borrowed": true,
+      "due_date": "13/9/2009",
+      "borrowed_by": "peter"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publication_year": 1932,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Bronte",
+      "publication_year": 1847,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "publication_year": 700,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "publication_year": 1866,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "publication_year": 1880,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "publication_year": 1818,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "publication_year": 1945,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "publication_year": 1988,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "publication_year": 1877,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "publication_year": 1954,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "publication_year": 1605,
+      "borrowed": false,
+      "due_date": null
+    },
+    {
+      "title": "hello",
+      "author": "pop",
+      "publication_year": 2098,
+      "borrowed": false,
+      "due_date": null,
+      "borrowed_by": null
+    },
+    {
+      "title": "hello2",
+      "author": "hassan",
+      "publication_year": 2099,
+      "borrowed": false,
+      "due_date": null,
+      "borrowed_by": null
+    },
+    {
+      "title": "hello3",
+      "author": "hassan",
+      "publication_year": 2099,
+      "borrowed": false,
+      "due_date": null,
+      "borrowed_by": null
+    },
+    {
+      "title": "peter2",
+      "author": "peter",
+      "publication_year": 2005,
+      "borrowed": false,
+      "due_date": null,
+      "borrowed_by": null
+    }
+  ]
+}
